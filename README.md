@@ -1,4 +1,4 @@
-# pytorch-LiLa ![alt text](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+# pytorch-WeatherNet ![alt text](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 Inofficial PyTorch implementation of [Boosting LiDAR-based Semantic Labeling by Cross-Modal Training Data Generation](https://arxiv.org/abs/1804.09915) (Piewak et al., 2018).
 
